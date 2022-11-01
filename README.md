@@ -11,7 +11,6 @@
 - 📝 I regularly write articles on [https://xuyanshi.github.io](https://xuyanshi.github.io)
 - 💬 Ask me about anything
 - 📫 How to reach me:  **xuyanshi1999@gmail.com**
-- 😄 Pronouns: He/Him/His
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&locale=en" alt="xuyanshi" />
@@ -33,9 +32,6 @@
 **xuyanshi/xuyanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-
-
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
