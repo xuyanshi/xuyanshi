@@ -17,7 +17,7 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en" alt="xuyanshi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact" alt="xuyanshi" />
 </p>
 
 ## [❤️](https://moqixis.github.io)
