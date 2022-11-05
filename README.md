@@ -12,22 +12,22 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:  **xuyanshi1999@gmail.com**
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
-</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
-</p>
+| <a href="https://github.com/xuyanshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yanshi XU's github stats" /></a> | <a href="https://github.com/Moqixis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+
 
 ## [❤️](https://moqixis.github.io)
 
-
 <!--
-
-
-
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
+</p>
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=xuyanshi&count_private=true&show_icons=true)](https://github.com/xuyanshi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&layout=compact)](https://github.com/xuyanshi/github-readme-stats)
 
