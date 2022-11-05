@@ -13,7 +13,7 @@
 - 📫 How to reach me:  **xuyanshi1999@gmail.com**
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
 
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yanshi XU's github stats" /></p> | <a> href="https://github.com/xuyanshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/xuyanshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yanshi XU's github stats" /></a> | <a href="https://github.com/xuyanshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
