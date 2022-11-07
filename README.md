@@ -3,6 +3,7 @@
 <h3 align="center">Now a Master student at Renmin University of China 🤣</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xuyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="xuyanshi" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/xuyanshi?style=social" alt="xuyanshi" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi" /></a> </p>
 
