@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me:  **xuyanshi1999@gmail.com**
+- 📫 How to reach me:  **xuyanshi1999 {at} gmail {dot} com**
 
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
 
