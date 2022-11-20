@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning database, especially **Cloud Database, AI4DB**
 
-- 🤔 I’m looking for help with ~~***[migrating abroad](https://zh.wikipedia.org/zh-cn/润学)***~~
+- 🤔 I’m looking for help with ~~***[nothing](https://zh.wikipedia.org/zh-cn/润学)***~~
 
 - 📝 I regularly write articles on [https://xuyanshi.github.io](https://xuyanshi.github.io)
 
