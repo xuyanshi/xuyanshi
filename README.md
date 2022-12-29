@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi" /></a> </p>
 
-- 🌱 I’m currently learning database, especially **Cloud Database, AI4DB**
+- 🌱 I’m currently learning database, especially **Cloud-Native Database**
 <!--
 - 🤔 I’m looking for help with ~~***[nothing](https://zh.wikipedia.org/zh-cn/润学)***~~
 -->
