@@ -20,13 +20,12 @@
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
+<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
+<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
 </p>
-
 ## [❤️](https://moqixis.github.io)
 
 
