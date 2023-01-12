@@ -26,6 +26,12 @@
 <p>
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
 </p>
+
+<p>
+<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/wakatime?username=xuyanshi&layout=compact" alt="xuyanshi" />
+</p>
+
+
 ## [❤️](https://moqixis.github.io)
 
 
