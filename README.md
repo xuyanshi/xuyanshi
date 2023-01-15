@@ -19,6 +19,7 @@
 
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
 
+- 😄 Pronouns: He/Him/His
 <p>
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
 </p>
@@ -46,6 +47,6 @@
 **xuyanshi/xuyanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 😄 Pronouns: He/Him/His
+
 - ⚡ Fun fact: ...
 -->
