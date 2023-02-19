@@ -19,6 +19,14 @@
 - 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
 
 - 😄 Pronouns: He/Him/His
+
+<!--
+![LeetCode Stats](https://leetcard.jacoblin.cool/genshi?theme=wtf&font=Share%20Tech%20Mono&ext=contest&site=cn)
+-->
+<p align="center">
+<img align="center" src="https://leetcard.jacoblin.cool/genshi?theme=wtf&font=Share%20Tech%20Mono&ext=contest&site=cn" alt="leetcode_cn" />
+</p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
@@ -34,9 +42,6 @@
 
 
 <!--
-
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=xuyanshi&count_private=true&show_icons=true)](https://github.com/xuyanshi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanshi&layout=compact)](https://github.com/xuyanshi/github-readme-stats)
