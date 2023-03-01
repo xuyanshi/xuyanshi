@@ -29,9 +29,11 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi" />
-<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
 </p>
 
+<!--
+<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/top-langs/?username=xuyanshi&show_icons=true&locale=en&layout=compact&theme=buefy" alt="xuyanshi" />
+-->
 
 <p align="center">
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/wakatime?username=xuyanshi&layout=compact" alt="xuyanshi" />
