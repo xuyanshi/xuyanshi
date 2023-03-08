@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Genshi Komatsu</h1>
+<h1 align="center">Hi 👋, I'm Yanshi XU</h1>
 <h3 align="center"><strike>An undergraduate student from Nanjing University, China</strike></h3>
 <h3 align="center">Now a Master student at Renmin University of China</h3>
 
