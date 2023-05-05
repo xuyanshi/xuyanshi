@@ -34,7 +34,7 @@
 -->
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/wakatime?username=xuyanshi&layout=compact" alt="xuyanshi-wakatime" />
+<img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api/wakatime?username=xuyanshi" alt="xuyanshi-wakatime" />
 </p>
 
 <p align="center">
