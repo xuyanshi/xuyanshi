@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi-dashboard" /></a> </p>
 
-- 🌱 I’m currently learning databases and other systems, especially **Cloud-Native Database** & **AI4DB**
+- 🌱 I’m currently learning databases and other systems, especially **Cloud-Native Databases** & **Multi-Model DBMS**
 <!--
 - 🤔 I’m looking for help with ~~***[nothing](https://zh.wikipedia.org/zh-cn/润学)***~~
 -->
