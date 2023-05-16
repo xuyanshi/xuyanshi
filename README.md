@@ -7,12 +7,12 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi-dashboard" /></a> </p>
 
 - 🌱 I’m currently learning databases and other systems, especially **Cloud-Native Databases** & **Multi-Model Databases**
-<!--
-- 🤔 I’m looking for help with ~~***[nothing](https://zh.wikipedia.org/zh-cn/润学)***~~
--->
-- 📝 I regularly write articles on [https://xuyanshi.github.io](https://xuyanshi.github.io)
 
-- 💬 Ask me about anything
+<!--
+- 🤔 I’m looking for a PhD position in (Northern) Europe, Finland 🇫🇮 in particular
+-->
+
+- 📝 I regularly write articles on [https://xuyanshi.github.io](https://xuyanshi.github.io)
 
 - 📫 How to reach me:  **xuyanshi1999 {at} gmail {dot} com**
 
