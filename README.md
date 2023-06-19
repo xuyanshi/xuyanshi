@@ -2,7 +2,7 @@
 <h3 align="center"><strike>An undergraduate student from Nanjing University, China</strike></h3>
 <h3 align="center">Now a Master student at Renmin University of China</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xuyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="xuyanshi-visitors" /><img src="https://img.shields.io/github/followers/xuyanshi?style=social" alt="xuyanshi-followers" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xuyanshi&label=GitHub%20Profile%20Views&color=0e75b6&style=flat" alt="xuyanshi-visitors" /><img src="https://img.shields.io/github/followers/xuyanshi?style=social" alt="xuyanshi-followers" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi-dashboard" /></a> </p>
 
