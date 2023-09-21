@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yanshi XU</h1>
-<h3 align="center"><strike>An undergraduate student from Nanjing University, China</strike></h3>
-<h3 align="center">Now a Master student at Renmin University of China</h3>
+<p align="center"><strike>An undergraduate student from Nanjing University, China</strike></p>
+<p align="center">Now a Master student at Renmin University of China</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xuyanshi&label=GitHub%20Profile%20Views&color=0e75b6&style=flat" alt="xuyanshi-visitors" /><img src="https://img.shields.io/github/followers/xuyanshi?style=social" alt="xuyanshi-followers" /> </p>
 
