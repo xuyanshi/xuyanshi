@@ -41,6 +41,9 @@
 <img align="center" src="https://leetcard.jacoblin.cool/genshi?theme=wtf&font=Share%20Tech%20Mono&ext=contest&site=cn" alt="leetcode_cn" />
 </p>
 
+## Random quotes
+
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true">
 
 ## [❤️](https://huiqianli.github.io/)
 
