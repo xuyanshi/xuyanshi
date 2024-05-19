@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning databases and other systems, especially **Cloud-Native Databases**, **AI4DB** <!-- & **Multi-Model Databases**-->
 
 <!--
-- 🤔 I’m looking for a PhD position in (Northern) Europe, Finland 🇫🇮 in particular
+- 🤔 I am seeking a PhD position outside of mainland China.
 -->
 
 - 📝 I regularly write articles on [https://xuyanshi.github.io](https://xuyanshi.github.io)
