@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi-dashboard" /></a> </p>
 
-- 🌱 I’m currently learning databases and other systems, especially **Cloud-Native Databases**, **AI4DB** <!-- & **Multi-Model Databases**-->
+- 🌱 I’m currently learning databases together with AI techniques, especially **Cloud-Native Databases**, **AI4DB**
 
 <!--
 - 🤔 I am seeking a PhD position outside of mainland China.
