@@ -1,24 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yanshi XU</h1>
-<p align="center"><strike>An undergraduate student from Nanjing University, China</strike></p>
-<p align="center"><strike>Now a Master student at Renmin University of China</strike></p>
+<h1 align="center">👋 Yanshi XU</h1>
+<p align="center"><b>Database Engineer | Cloud-Native & AI Enthusiast</b></p>
+<p align="center">📍 Beijing, China</p>
+<p align="center">🎓 MEng from Renmin University of China | BSc from Nanjing University</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xuyanshi&label=GitHub%20Profile%20Views&color=0e75b6&style=flat" alt="xuyanshi-visitors" /><img src="https://img.shields.io/github/followers/xuyanshi?style=social" alt="xuyanshi-followers" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi-dashboard" /></a> </p>
+- 🔭 **Current Focus**: Specializing in the intersection of **Databases** and **Artificial Intelligence**, with a strong emphasis on **Cloud-Native Database** architectures and **AI4DB** optimization.
+  
+- 📝 **Technical Writing**: I document and share technical insights on my blog at [xuyanshi.github.io](https://xuyanshi.github.io).
+  
+- 📫 **Contact**: Open to technical discussions and opportunities. Reach me at **xuyanshi1999 {at} gmail {dot} com**.
 
-- 🌱 I’m currently learning databases together with AI techniques, especially **Cloud-Native Databases**, **AI4DB**
-
-<!--
-- 🤔 I am seeking a PhD position outside of mainland China.
--->
-
-- 📝 I regularly write articles on [https://xuyanshi.github.io](https://xuyanshi.github.io)
-
-- 📫 How to reach me:  **xuyanshi1999 {at} gmail {dot} com**
-
-- 🔭 My GitHub: [https://github.com/xuyanshi](https://github.com/xuyanshi)
-
-- 😄 Pronouns: He/Him/His
+- 😄 **Pronouns**: He/Him/His
 
 - [❤️](https://huiqianli.github.io/)
 
@@ -26,7 +18,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/genshi?theme=wtf&font=Share%20Tech%20Mono&ext=contest&site=cn)
 -->
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xuyanshi&label=GitHub%20Profile%20Views&color=0e75b6&style=flat" alt="xuyanshi-visitors" /><img src="https://img.shields.io/github/followers/xuyanshi?style=social" alt="xuyanshi-followers" /> </p>
+<!--
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xuyanshi&column=7" alt="xuyanshi-dashboard" /></a> </p>
+-->
 <p align="center">
 <img align="center" src="https://github-readme-stats-bv79ec4l6-xuyanshi.vercel.app/api?username=xuyanshi&show_icons=true&locale=en&theme=buefy" alt="xuyanshi-github-stats" />
 </p>
